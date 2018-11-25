@@ -1,15 +1,15 @@
 {
-  "main.css": "/contact-manager-react-redux/static/css/main.948eaa6c.chunk.css",
-  "main.js": "/contact-manager-react-redux/static/js/main.1628224c.chunk.js",
-  "main.js.map": "/contact-manager-react-redux/static/js/main.1628224c.chunk.js.map",
-  "static/css/1.09a327af.chunk.css": "/contact-manager-react-redux/static/css/1.09a327af.chunk.css",
-  "static/js/1.32d103f9.chunk.js": "/contact-manager-react-redux/static/js/1.32d103f9.chunk.js",
-  "static/js/1.32d103f9.chunk.js.map": "/contact-manager-react-redux/static/js/1.32d103f9.chunk.js.map",
-  "runtime~main.js": "/contact-manager-react-redux/static/js/runtime~main.bdea3ec7.js",
-  "runtime~main.js.map": "/contact-manager-react-redux/static/js/runtime~main.bdea3ec7.js.map",
-  "static/css/1.09a327af.chunk.css.map": "/contact-manager-react-redux/static/css/1.09a327af.chunk.css.map",
-  "static/css/main.948eaa6c.chunk.css.map": "/contact-manager-react-redux/static/css/main.948eaa6c.chunk.css.map",
-  "index.html": "/contact-manager-react-redux/index.html",
-  "precache-manifest.2f86e7ff075c43609748cd9d83ed7415.js": "/contact-manager-react-redux/precache-manifest.2f86e7ff075c43609748cd9d83ed7415.js",
-  "service-worker.js": "/contact-manager-react-redux/service-worker.js"
+  "main.css": "/contact-manager-redux/static/css/main.948eaa6c.chunk.css",
+  "main.js": "/contact-manager-redux/static/js/main.4f287e7b.chunk.js",
+  "main.js.map": "/contact-manager-redux/static/js/main.4f287e7b.chunk.js.map",
+  "static/css/1.09a327af.chunk.css": "/contact-manager-redux/static/css/1.09a327af.chunk.css",
+  "static/js/1.32d103f9.chunk.js": "/contact-manager-redux/static/js/1.32d103f9.chunk.js",
+  "static/js/1.32d103f9.chunk.js.map": "/contact-manager-redux/static/js/1.32d103f9.chunk.js.map",
+  "runtime~main.js": "/contact-manager-redux/static/js/runtime~main.d82270be.js",
+  "runtime~main.js.map": "/contact-manager-redux/static/js/runtime~main.d82270be.js.map",
+  "static/css/main.948eaa6c.chunk.css.map": "/contact-manager-redux/static/css/main.948eaa6c.chunk.css.map",
+  "static/css/1.09a327af.chunk.css.map": "/contact-manager-redux/static/css/1.09a327af.chunk.css.map",
+  "index.html": "/contact-manager-redux/index.html",
+  "precache-manifest.a1aa8e55aff8aa401abd90dffe1cda68.js": "/contact-manager-redux/precache-manifest.a1aa8e55aff8aa401abd90dffe1cda68.js",
+  "service-worker.js": "/contact-manager-redux/service-worker.js"
 }
