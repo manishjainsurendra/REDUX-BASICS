@@ -42,3 +42,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+# run this project [https://kiranninave.github.io/contact-manager-redux/](https://kiranninave.github.io/contact-manager-redux/).
+
+# note after run it will give 404 error so kindly click on home link on navbar
